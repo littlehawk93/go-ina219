@@ -1,5 +1,7 @@
 # INA-219 Sensor Go API
 
+[![GoDoc](https://godoc.org/github.com/littlehawk93/go-ina219?status.svg)](https://godoc.org/github.com/littlehawk93/go-ina219)
+
 Provides an interface for using the INA-219 sensor on a Raspberry Pi via the I2C hardware interface.
 
 You can Texas Instrument's official specifications for the INA-219 sensor [here](http://www.ti.com/lit/ds/symlink/ina219.pdf).
